@@ -1,0 +1,51 @@
+@charset "utf-8";
+#menu {
+	text-align: center;
+	
+}
+#contenedor {
+    background-color: #5BBFFF;
+    height: 900px;
+    width: 1000px;
+    color: #FFFFFF;
+    text-decoration: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header {
+    background-color: #6C00BD;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 60px;
+    text-decoration: none;
+	
+	
+}
+#body {
+    background-color: #9830D5;
+    height: 600px;
+    width: 100%;
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: large;
+}
+#pie{
+    text-align: left;
+    height: 100px;
+    width: 100%;
+    background-color: #6F41B9;
+}
+.imagen{
+	width: 250px; 
+	height: 200px;
+}
+a:link{
+	text-decoration: none;
+	color: crimson;
+	font-size: 30px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		
+}
